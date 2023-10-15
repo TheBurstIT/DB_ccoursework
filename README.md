@@ -1,3 +1,6 @@
+Курсовой проект по Базам Данных
+
+Описание:
 Name: Los Pollos Hermanos
 
 Description:
